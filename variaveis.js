@@ -65,7 +65,7 @@ let experiencias = [
         data_inicio: "10/2021",
         data_fim: null
         descricao: "Lorem ipsum dolor sit amet consectetur, adipisicing",
-        atividades: ["atividade 1", "atividade 2"]
+        atividades: ["atividade 1", "atividade 2"],
     },
     {
         cargo: "Estudando inf-basica",
@@ -77,4 +77,6 @@ let experiencias = [
     }
 ];
 
-console.log(experiencias)
+
+//typeof função do jascript para saber o tipo da variavel;
+console.log(typeof experiencias)
